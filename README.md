@@ -1,7 +1,7 @@
 
 ## *Cool chat system for BBC micro:bit with gd hitboxes memes.*
 
-⚠️ YOU NEED TO HAVE **2** BBC micro:bits WITH THIS CODE IN ORDER TO LET THIS CODE WORK ⚠️
+##⚠️ YOU NEED TO HAVE **2** BBC micro:bits WITH THIS CODE IN ORDER TO LET THIS CODE WORK ⚠️
 
 Ledgend
 
