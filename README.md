@@ -11,8 +11,9 @@ Ledgend
 
 **USES RADIO FOR COMMUNICATION**
 
+## How to install on your BBC micro:bit?
 
-## Use as extension in MakeCode
+## Method 1: Use as extension in MakeCode
 
 This repository can be used as **extention** in MakeCode
 
@@ -21,7 +22,7 @@ This repository can be used as **extention** in MakeCode
 * Click on *extensions* after the gear menu
 * Search for **https://github.com/aidenonlinux/gd-hitboxes-memes-chat** and import
 
-## Edit this project
+## Method 2: Edit this project
 
 To edit this project in MakeCode:
 
@@ -33,3 +34,18 @@ To edit this project in MakeCode:
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+## Method 3: Direct installing the file to your BBC micro:bit
+
+* Download the **.hex file** from the releases tab
+* Plug your BBC micro:bit into your PC/laptop
+* Open your file manager
+* Locate the **.hex file**
+* Drag it to the **BBC micro:bit**
+* Restart your BBC micro:bit
+
+
+
+## Thanks for using my code! -@Aidenonlinux
+
+
